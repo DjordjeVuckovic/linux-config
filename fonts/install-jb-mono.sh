@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 curl  https://github.com/ryanoasis/nerd-fonts/releases/latest/download/JetBrainsMono.zip
 # Create fonts directory if needed
 mkdir -p ~/.local/share/fonts
